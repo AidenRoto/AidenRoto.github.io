@@ -13,18 +13,18 @@ url:                 https://isme2n.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             가장 게으르기위해 가장 부지런한 개발자
+tagline: 앞으로 여기다가 컴퓨터 관련 글을 포스팅 할 예정 
+        
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  게으르기 때문에 게발자.
-  글쓰는 걸 좋아하고, 디자인과 개발을 좋아한다.
+  하고 싶은건 해야하는 88년생 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              aiden min
-  email:             zoqozqz@gmail.com
+  name:              aiden kim
+  email:             aidenroto@gmail.com
 
 # Fallback image and color
 image:               /assets/img/nap.jpg
