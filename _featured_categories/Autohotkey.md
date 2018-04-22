@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Auto
-slug: autohotkey
+slug: auto
 menu: true
 submenu: false
 order: 4
