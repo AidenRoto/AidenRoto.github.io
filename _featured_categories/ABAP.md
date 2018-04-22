@@ -1,6 +1,6 @@
 ---
 layout: list
-title: abap
+title: SAP/ABAP
 slug: abap
 menu: true
 submenu: false

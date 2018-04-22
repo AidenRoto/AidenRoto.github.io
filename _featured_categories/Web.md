@@ -1,6 +1,6 @@
 ---
 layout: list
-title: web
+title: Web
 slug: web
 menu: true
 submenu: false

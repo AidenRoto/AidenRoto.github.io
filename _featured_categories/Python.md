@@ -1,6 +1,6 @@
 ---
 layout: list
-title: python
+title: Python
 slug: python
 menu: true
 submenu: false
