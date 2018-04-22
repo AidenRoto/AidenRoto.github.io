@@ -47,7 +47,7 @@ isme2n:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          isme2n
+    github:          AidenRoto
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -59,7 +59,7 @@ isme2n:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:aidenroto@gmail.com
-    rss:             https://isme2n.github.io/feed.xml
+    rss:             
 
 # Another author
 mdo:
