@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Autohotkey
+title: Auto
 slug: autohotkey
 menu: true
 submenu: false
