@@ -1,11 +1,11 @@
 ---
 layout: list
-title: Autohotkey
-slug: autohotkey
+title: Web
+slug: web
 menu: true
 submenu: false
 order: 4
 description: >
   
- Autohotkey 에 관한 글 
+  Web에 관한 글 (Django, html, CSS, AWS, Javascript)
 ---
