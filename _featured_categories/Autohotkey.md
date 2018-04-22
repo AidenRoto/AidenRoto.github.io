@@ -4,8 +4,7 @@ title: Autohotkey
 slug: autohotkey
 menu: true
 submenu: false
-order: 1
+order: 4
 description: >
-  
-Autohotkey에 관한 글
+  평소 생각과 쓰고싶은 글을 씁니다.
 ---
