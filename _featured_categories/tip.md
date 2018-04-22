@@ -4,7 +4,7 @@ title: Tip
 slug: tip
 menu: true
 submenu: false
-order: 5
+order: 6
 description: >
   Windows / MacOS 에 대한 팁
 ---
