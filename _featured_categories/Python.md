@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Devlog
-slug: devlog
+title: Python
+slug: Python
 menu: true
 submenu: true
 order: 8
