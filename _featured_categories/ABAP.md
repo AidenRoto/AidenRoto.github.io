@@ -1,7 +1,7 @@
 ---
 layout: list
-title: ABAP
-slug: ABAP
+title: abap
+slug: abap
 menu: true
 submenu: false
 order: 1

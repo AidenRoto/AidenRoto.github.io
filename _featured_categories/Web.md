@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Web
-slug: Web
+title: web
+slug: web
 menu: true
 submenu: false
 order: 3
