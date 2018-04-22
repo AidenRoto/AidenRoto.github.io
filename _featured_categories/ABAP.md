@@ -3,8 +3,8 @@ layout: list
 title: ABAP
 slug: ABAP
 menu: true
-submenu: true
-order: 7
+submenu: false
+order: 1
 description: >
   SAP / ABAP 에 관한 글
 ---
