@@ -19,7 +19,7 @@ tagline: 앞으로 여기다가 컴퓨터 관련 글을 포스팅 할 예정
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  하고 싶은건 해야하는 88년생 
+  매일 매일 업데이트 하려고 노력하고 있습니다. 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
