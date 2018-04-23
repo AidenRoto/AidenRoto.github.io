@@ -70,30 +70,7 @@ SAP_path:="C:\Program Files (x86)\SAP\SapSetup\setup\SAL\SapLogon.s8l"
 ::spqj::eastkim64@naver.com
 ::wlapf::aidenkim2905@gmail.com
 ScrollLock::SetWallpaper("C:\Users\aeue1107\Documents\SETTING\1.jpg")
-::;SAP::ZAESTFT52
-; SAP Login Start ----------
-^+s::
-::gpath::C:/Users/aeue1107/AidenRoto.github.io
-run, C:\Program Files (x86)\SAP\SapSetup\setup\SAL\SapLogon.s8l
-WinWait,SAP Logon 720
-WinActivate SAP Logon 720
-sleep,500
-click,313, 94 ,2 
-WinWait,SAP
-WinActivate SAP
-sleep,700
-click,177, 167,
-sleep,100
-sendinput, ^a
-sendinput, 505{Tab}
-sendinput, ZAESTFT52{Tab}
-sendinput, %PW%{enter}
-sleep,500
-sendinput,se38{enter}
-MsgBox, ABAP Editor is ready!
-return,
-^+~::sendinput, ^+{Esc}
-; SAP login End-------
+
 return,
 
 #Space:: ; Win + N을 누르면 Naver 사전 드래그 되어있는 텍스트 검색 
